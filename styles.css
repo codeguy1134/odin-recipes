@@ -14,10 +14,18 @@ h1, h2 {
 
 img {
     height: auto;
-    width: 500px;
+    width: 300px;
     display: block;
     margin-left: auto;
     margin-right: auto;
     border-radius: 250px;
     corner-shape: squircle;
+}
+
+ul {
+    width: 100vw;
+    height: 300px;
+    padding: 20px;
+    display: flex;
+    gap: 4vw;
 }
